@@ -1,7 +1,7 @@
 # Quake KTX Server
 
 ## Overview
-1. Clone this repo or download the [zipball](https://github.com/rictorres/quake1-ktx/archive/master.zip)
+1. Clone this repo `git clone https://github.com/rictorres/quake1-ktx.git` or download the [zipball](https://github.com/rictorres/quake1-teamfortress/archive/master.zip)
 2. Run `./start-ktx` (it will be attached to a different screen called `qw-ktx`, useful if you're using SSH)
 3. Profit!
 
