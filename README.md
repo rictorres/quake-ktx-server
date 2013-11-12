@@ -13,7 +13,6 @@
 
 
 ## Installation
-
 ```
 $ sudo apt-get update
 $ sudo apt-get install screen
@@ -22,7 +21,6 @@ $ chmod 755 start-qw
 
 
 ## Running
-
 ```
 ./start-ktx
 RUNNING KTX PUBLIC SERVER ON PORT 27510
@@ -30,7 +28,6 @@ RUNNING KTX PUBLIC SERVER ON PORT 27510
 
 
 ## Additional info
-
 - To get a list of `screens` in use:
   `$ screen -list`
 - To re-attach the screen
