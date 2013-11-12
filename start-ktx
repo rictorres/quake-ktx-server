@@ -1,0 +1,2 @@
+echo RUNNING KTX PUBLIC SERVER ON PORT 27510
+screen -A -m -d -S qw-ktx ./mvdsv -port 27510 -game ktx +logrcon +logplayers +exec server-ktx.cfg
