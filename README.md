@@ -38,3 +38,6 @@ RUNNING KTX PUBLIC SERVER ON PORT 27510
 
 ## Credits
 - [SLUSAMSON](http://www.bluemunkey.com/?p=124)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rictorres/quake1-ktx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
