@@ -1,6 +1,7 @@
 # Quake KTX Server
 
 ## Overview
+
 This repository has all the files needed to run a KTX server on a Linux machine.
 
 1. Clone this repo `git clone https://github.com/rictorres/quake-ktx-server.git` or download the [zipball](https://github.com/rictorres/quake-ktx-server/archive/master.zip)
@@ -9,12 +10,14 @@ This repository has all the files needed to run a KTX server on a Linux machine.
 
 
 ## Requirements
+
 - Linux server (preferably Ubuntu)
 - SSH
 - Screen
 
 
 ## Installation
+
 ```
 $ sudo apt-get update
 $ sudo apt-get install screen
@@ -23,6 +26,7 @@ $ chmod 755 start-qw
 
 
 ## Running
+
 ```
 ./start-ktx
 RUNNING KTX PUBLIC SERVER ON PORT 27510
@@ -30,6 +34,7 @@ RUNNING KTX PUBLIC SERVER ON PORT 27510
 
 
 ## Additional info
+
 - To get a list of `screens` in use:
   `$ screen -list`
 - To re-attach the screen
@@ -39,4 +44,5 @@ RUNNING KTX PUBLIC SERVER ON PORT 27510
 
 
 ## Credits
+
 - [SLUSAMSON](http://www.bluemunkey.com/?p=124)
