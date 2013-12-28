@@ -1,7 +1,9 @@
 # Quake KTX Server
 
 ## Overview
-1. Clone this repo `git clone https://github.com/rictorres/quake1-ktx.git` or download the [zipball](https://github.com/rictorres/quake1-teamfortress/archive/master.zip)
+This repository has all the files needed to run a KTX server on a Linux machine.
+
+1. Clone this repo `git clone https://github.com/rictorres/quake-ktx-server.git` or download the [zipball](https://github.com/rictorres/quake-ktx-server/archive/master.zip)
 2. Run `./start-ktx` (it will be attached to a different screen called `qw-ktx`, useful if you're using SSH)
 3. Profit!
 
