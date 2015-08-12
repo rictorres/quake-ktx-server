@@ -11,7 +11,7 @@ This repository has all the files needed to run a KTX server on a Linux machine.
 
 ## Requirements
 
-- Linux server (preferably Ubuntu)
+- Linux 32-bit server (preferably Ubuntu)
 - SSH
 - Screen
 
